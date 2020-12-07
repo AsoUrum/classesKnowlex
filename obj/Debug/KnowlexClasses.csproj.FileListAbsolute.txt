@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\YEAR-2 1Sst seamester\Information Systems Analysis\projectFolder\KnowlexClasses\bin\Debug\KnowlexClasses.dll
+C:\Users\User\Desktop\YEAR-2 1Sst seamester\Information Systems Analysis\projectFolder\KnowlexClasses\bin\Debug\KnowlexClasses.pdb
+C:\Users\User\Desktop\YEAR-2 1Sst seamester\Information Systems Analysis\projectFolder\KnowlexClasses\obj\Debug\KnowlexClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YEAR-2 1Sst seamester\Information Systems Analysis\projectFolder\KnowlexClasses\obj\Debug\KnowlexClasses.dll
+C:\Users\User\Desktop\YEAR-2 1Sst seamester\Information Systems Analysis\projectFolder\KnowlexClasses\obj\Debug\KnowlexClasses.pdb
